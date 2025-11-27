@@ -1,0 +1,23 @@
+/* Example additional CSS */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Styles for children of .cl-preview-section and cledit-section */
+.cl-preview-section > p,
+.cl-preview-section > span,
+.cl-preview-section > a,
+.cl-preview-section > li,
+.cl-preview-section > img,
+.cl-preview-section > code,
+.cl-preview-section > pre,
+.cl-preview-section > blockquote {
+  unicode-bidi: plaintext !important;
+}
+
+.cledit-section  {
+  unicode-bidi: plaintext !important;
+}
+
+/* If you want to style nested elements (not only direct children),
+   use selectors without the child combinator, e.g. `.cl-preview-section p` */
