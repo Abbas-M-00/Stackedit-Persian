@@ -1,6 +1,6 @@
 ## 📝 StackEdit Persian Helper
 
-A lightweight Chrome extension to make writing Persian (Farsi) and English together much easier inside StackEdit and similar editors. It improves bidirectional typing, spacing, and preview styling so mixed Persian/English documents look correct and are easier to author.
+A lightweight Chrome extension to make writing Persian (Farsi) and English together much easier inside [Stackedit.io](https://stackedit.io/app#). It improves bidirectional typing, spacing, and preview styling so mixed Persian/English documents look correct and are easier to author.
 
 👉 **Note:** This repository contains the extension source files: `background.js`, `content.js`, `manifest.json`, and `style.css`.
 
@@ -19,7 +19,7 @@ A lightweight Chrome extension to make writing Persian (Farsi) and English toget
 1. Open Chrome and navigate to the Extensions page: `chrome://extensions/`.
 2. Enable **Developer mode** (toggle in the top-right).
 3. Click **Load unpacked** (🧩).
-4. In the file chooser, select the extension folder (for example: `d:\Projects\dev\stackedit-persian` or the project's folder on your machine).
+4. In the file chooser, select the extension folder on your machine.
 5. The extension will appear in the list. If it shows errors, click **Details** and view **Errors** for troubleshooting.
 
 Optional: open the Extensions page from PowerShell:
