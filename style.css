@@ -1,6 +1,11 @@
 /* Example additional CSS */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Vazirmatn', Arial, sans-serif;
+}
+
+/* Apply Vazirmatn font to all elements */
+* {
+  font-family: 'Vazirmatn', Arial, sans-serif !important;
 }
 
 /* Styles for children of .cl-preview-section and cledit-section */

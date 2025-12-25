@@ -7,6 +7,7 @@ A lightweight Chrome extension to make writing Persian (Farsi) and English toget
 ## ✨ Features
 - 🔁 Improves bidirectional text rendering for Persian and English in preview areas.
 - 🎨 Adds CSS rules to better style Persian text in previews (RTL fixes, line-height, margins).
+- 🔤 Changes the page font to [Vazirmatn](https://fonts.google.com/specimen/Vazirmatn) for better Persian text readability.
 - ⚡ Lightweight and built for use in Chrome's Developer (unpacked) mode.
 
 ## 📁 Files included
